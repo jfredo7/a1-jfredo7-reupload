@@ -1,7 +1,7 @@
 Assignment 1 - Hello World: Basic Deployment w/ Git, GitHub, Glitch
 ===
 
-*DUE: Monday, August 29th by 11:59 AM (before the start of class!)*  
+*DUE: Monday, August 30th by 11:59 AM (before the start of class!)*  
 
 This assignment is a "warm-up" exercise. 
 You will simply deploy the starting Web site that you will use this term to [Glitch](http://www.glitch.com/). 
@@ -94,7 +94,7 @@ http://a1-charlieroberts.glitch.me
 This project shows ...
 
 ## Technical Achievements
-- **Styled page with CSS**: Added rules for the p, li, and a selectors...
+- **Styled page with CSS**: I filled in the headers and paragraphs with information about myself and my interest.I styled the color, background, font, alignment, spacing, padding, and height of each of these categories. I added an animation that I named 'pulse' to the title and title background. I played around with some other HTML tags, including adding a url to my LinkedIn, a table of my interests, an image at the top of the page, and an unordered list of my programming experience. 
 
 ### Design Achievements
-- **Used the Roboto Font from Google Fonts**: I used Roboto as the font for the primary copy text in my site.
+- **Used the Open Sans and Lobster Fonts from Google Fonts**: I used Open Sans as the font for the primary copy text in my site, and Lobster for the title and headers. I also used color.adobe.com to generate a color pallet and used these colors in my design. I will add a screenshot of it to my repository.
